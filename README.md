@@ -49,7 +49,7 @@ arxiv_aggregator/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/arxiv_aggregator.git
+   git clone https://github.com/jgravelle/arxiv_aggregator.git
    cd arxiv_aggregator
    ```
 
